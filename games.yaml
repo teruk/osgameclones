@@ -3059,7 +3059,7 @@
     - name: movbizz
       repo: https://github.com/teruk/movbizz
       added: 2015-06-01
-      info: active development, (PHP & JavaScript), MIT
+      info: halted development, (PHP & JavaScript), MIT
       url: http://movbizz.sebbmeyer.de/
 
 - name: [Nebulus, Nebulus (video game)]
